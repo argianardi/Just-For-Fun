@@ -2,4 +2,5 @@ resolusi:
 - belajar coding
 - belajar bahasa inggris
 - belajar bisnis
+- perbanyak jaringan
 - bangun startup

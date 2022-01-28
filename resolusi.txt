@@ -1,0 +1,4 @@
+resolusi:
+- belajar coding
+- belajar bahasa inggris
+- bangun startup

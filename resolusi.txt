@@ -1,6 +1,0 @@
-Resolusi:
- -pelajari coding
- -menjadi fullstack developer
- -belajar bisnis
- -belajar bahasa inggris
- -bangun startup

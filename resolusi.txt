@@ -1,4 +1,5 @@
 resolusi:
 - belajar coding
 - belajar bahasa inggris
+- belajar bisnis
 - bangun startup

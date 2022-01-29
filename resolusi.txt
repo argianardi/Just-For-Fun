@@ -3,3 +3,4 @@ resolusi:
 - belajar bahasa inggris
 - belajar bisnis
 - bangun startup
+- ceo inovatif

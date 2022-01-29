@@ -6,3 +6,4 @@ rencana jangka pendek:
     #cari referensi belajar (belajar di wpu)
 - belajar bahasa inggris
 - belajar speakup
+- belajar ngoding lagi

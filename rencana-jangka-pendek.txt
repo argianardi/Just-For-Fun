@@ -1,4 +1,5 @@
 rencana jangka pendek:
 - fokus ke coding
   * fokus ke frontend dev
+    #cari referensi belajar
   * perdalam javascript

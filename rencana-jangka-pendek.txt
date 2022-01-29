@@ -2,4 +2,4 @@ rencana jangka pendek:
 - fokus ke coding
   * fokus ke frontend dev
    #belajar di sekolah coding
-  * perdalam javascript
+- perkuat motivasi belajar

@@ -1,5 +1,7 @@
 rencana jangka pendek:
 - fokus ke coding
   * fokus ke frontend dev
-    #cari referensi belajar
+    #cari referensi belajar (belajar di wpu)
   * perdalam javascript
+    #cari referensi belajar (belajar di wpu)
+   

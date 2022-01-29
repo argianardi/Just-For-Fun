@@ -5,4 +5,4 @@ rencana jangka pendek:
   * perdalam javascript
     #cari referensi belajar (belajar di wpu)
 - belajar bahasa inggris
-   
+- belajar speakup
